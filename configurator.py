@@ -12,7 +12,7 @@ This file contains a class that configures basic settings needed for every Pytho
 
 __author__ = "Talha Saqib"
 
-
+ 
 class Configurator(object):
 
     def __init__(self):
